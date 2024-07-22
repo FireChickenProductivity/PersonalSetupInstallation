@@ -1,0 +1,1 @@
+install my repositories: user.install_setup()
