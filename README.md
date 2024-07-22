@@ -1,0 +1,1 @@
+This is what I use to install my talon set up on a new computer. Aegis does not want us to create a package manager, so do not fork this and try to turn it into one.
