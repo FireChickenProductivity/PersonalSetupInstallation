@@ -47,5 +47,6 @@ module = Module()
 @module.action_class
 class Actions:
     def install_setup(repositories: List = main_repositories_to_install):
+        """Installs the specified repositories"""
         install_repositories(repositories)
     
