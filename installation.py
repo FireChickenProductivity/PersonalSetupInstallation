@@ -24,6 +24,8 @@ def install_repositories(repositories):
             actions.sleep("10s")
         
 main_repositories_to_install = [
+    ("https://github.com/FireChickenProductivity/cursorless-settings", "cursorless-settings"),
+    ("https://github.com/FireChickenProductivity/Viper-Settings", "Viper Settings"),
     ("https://github.com/FireChickenProductivity/MouseControlChicken", "MouseControlChicken"),
     ("https://github.com/FireChickenProductivity/PersonalCommunityFork", "community"),
     ("https://github.com/FireChickenProductivity/PersonalTalonVoiceCodingSetup", "PersonalTalonVoiceCodingSetup"),
